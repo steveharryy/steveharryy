@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhay kumar</h1>
-<h3 align="center">A passionate full stack developer from India, having fruitful knnowledge of DSA in Java</h3>
+<h3 align="center">A passionate full stack developer from India, having fruitful knowledge of DSA in Java</h3>
 <img align= "right" alt= "coding" width= "400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steveharryy&label=Profile%20views&color=0e75b6&style=flat" alt="steveharryy"/> </p>
 
