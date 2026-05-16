@@ -1,24 +1,61 @@
-<h1 align="center">Hi 👋, I'm Abhay kumar</h1>
-<h3 align="center">A passionate full stack developer from India with a solid understanding of Data Structures and Algorithms in Java.</h3>
-<img align= "right" alt= "coding" width= "400" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steveharryy&label=Profile%20views&color=0e75b6&style=flat" alt="steveharryy"/> </p>
+# Hi, I'm Abhay Kumar
 
-- 🌱 I’m currently learning **Google Cloud, Java**
+**Backend & full-stack engineer · Pre-final year ECE @ GGSIPU, Delhi**
 
-- 📫 How to reach me **adinfotech22@gmail.com**
+I build production-grade backend systems and full-stack platforms — currently focused on distributed systems, ML pipelines, and cloud-native architecture on GCP. Strong in Java and C++ for competitive programming; Python and TypeScript for product work.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhay-kumar-a10854297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhay-kumar-a10854297" height="30" width="40" /></a>
-<a href="https://instagram.com/abhxy.ae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhxy.ae" height="30" width="40" /></a>
-</p>
+> 🟢 **Open to SDE / Backend internships — Summer/Fall 2026.** Remote or on-site, India or international. Reach me at adinfotech22@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steveharryy&show_icons=true&locale=en&layout=compact" alt="steveharryy" /></p>
+## Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steveharryy&show_icons=true&locale=en" alt="steveharryy" /></p>
+### [Swasth-Guru](https://github.com/steveharryy/Swasth-Guru)
+Multilingual telemedicine platform with WebRTC video consultations, AI-powered symptom triage, and real-time multilingual NLP — deployed on GCP.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steveharryy&" alt="steveharryy" /></p>
+`FastAPI` `Next.js` `WebRTC` `PostgreSQL` `Docker` `GCP` `WebSockets`
 
+---
+
+### [UPI Fraud Detection](https://github.com/steveharryy/UPI-Fraud-Detection)
+ML-powered transaction anomaly detection system with a FastAPI inference layer, MongoDB time-series storage, and a real-time scoring API.
+
+`Python` `Scikit-learn` `FastAPI` `MongoDB` `REST API`
+
+---
+
+### [Vichaar-Setu](https://github.com/steveharryy/Vichaar-Setu)
+Student-investor matchmaking platform with role-based auth, structured pitch workflows, and proposal management — built on Node.js and PostgreSQL.
+
+`Node.js` `TypeScript` `PostgreSQL` `GCP` `REST API`
+
+---
+
+## Core Stack
+
+| Domain | Technologies |
+|---|---|
+| Languages | Java · C++ · Python · TypeScript |
+| Backend | FastAPI · Node.js · REST APIs · WebSockets |
+| Frontend | Next.js · React |
+| Databases | PostgreSQL · MongoDB |
+| Infrastructure | Docker · GCP · Linux |
+| ML / Data | Scikit-learn · Pandas · NumPy |
+
+---
+
+## Competitive Programming
+
+1000+ problems solved across Codeforces and LeetCode. Primary languages Java and C++.
+Focus areas: graphs, dynamic programming, string algorithms, and segment trees.
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-steveharryy-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/steveharryy)
+[![LeetCode](https://img.shields.io/badge/LeetCode-steveharryy-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/steveharryy)
+
+---
+
+## Get in Touch
+
+- 📧 adinfotech22@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/abhay-kumar) ← update this URL
+- 📍 Delhi, India
