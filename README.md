@@ -49,13 +49,13 @@ Student-investor matchmaking platform with role-based auth, structured pitch wor
 1000+ problems solved across Codeforces and LeetCode. Primary languages Java and C++.
 Focus areas: graphs, dynamic programming, string algorithms, and segment trees.
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-steveharryy-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/steveharryy)
-[![LeetCode](https://img.shields.io/badge/LeetCode-steveharryy-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/steveharryy)
+[![Codeforces](https://img.shields.io/badge/Codeforces-steveharryy-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhaykr1232)
+[![LeetCode](https://img.shields.io/badge/LeetCode-steveharryy-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/spideyy12/)
 
 ---
 
 ## Get in Touch
 
 - 📧 adinfotech22@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/abhay-kumar) ← update this URL
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhay-kumar-pandit-a10854297/)
 - 📍 Delhi, India
